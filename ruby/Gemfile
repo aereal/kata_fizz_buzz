@@ -1,0 +1,7 @@
+source :rubygems
+
+group :test do
+  gem 'rspec'
+  gem 'fuubar'
+  gem 'queencheck', '~> 1.0.0'
+end
